@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img width="100%" height="450" src="https://github.com/g-tapia/g-tapia/assets/78235399/4f6655de-29f4-4d63-b3d9-0d3d14085393">
-</p>
