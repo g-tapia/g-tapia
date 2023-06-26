@@ -9,7 +9,7 @@ Happy coding! 🚀
 
 <p align="center">
   <img width="100%" height="350" src="https://github.com/g-tapia/g-tapia/assets/78235399/8d080c4f-1a27-4807-b0ec-c0619173c43d">
-</p> |
+</p>
 
 <!--
 **g-tapia/g-tapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
